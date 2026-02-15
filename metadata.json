@@ -1,0 +1,7 @@
+{
+  "name": "Maison Royale du Ndop",
+  "description": "An exquisite luxury fashion platform preserving Cameroonian textile heritage through modern high-fashion and bespoke tailoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
